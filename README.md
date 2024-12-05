@@ -1,1 +1,1 @@
-# PausableComp_swapFunc
+# PausableComponent_swapFunctionality
